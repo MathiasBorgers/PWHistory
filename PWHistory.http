@@ -1,0 +1,6 @@
+@PWHistory_HostAddress = http://localhost:5069
+
+GET {{PWHistory_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
